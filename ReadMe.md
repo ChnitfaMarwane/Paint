@@ -17,8 +17,11 @@ A 2D drawing application built with Java Swing.
 ## How to Run
 
 Run the executable JAR:
+
 ```java -jar PaintApp.jar```
 
 Or compile and run from source:
+
 ```javac PaintApp.java CanvasPanel.java```
+
 ```java PaintApp```
